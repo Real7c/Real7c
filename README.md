@@ -1,4 +1,4 @@
-<h1 align="center">SevenC</h1>
+<h1 align="center">7C</h1>
 <h3 align="center">AI Engineer • API Architect • Security Researcher</h3>
 
 <p align="center">
@@ -50,16 +50,6 @@ I focus on **shipping systems that last**, not hype-driven experiments.
 
 ### 🧪 Automation & Testing
 `Selenium` • `Puppeteer` • `Cypress` • `Jest`
-
----
-
-## 🔗 Online Presence
-<p align="left">
-<a href="https://dev.to/7cwebhook" target="_blank">DEV</a> •
-<a href="https://instagram.com/known7c" target="_blank">Instagram</a> •
-<a href="https://www.youtube.com/c/real7c" target="_blank">YouTube</a> •
-<a href="https://www.hackerrank.com/godly7c" target="_blank">HackerRank</a>
-</p>
 
 ---
 
