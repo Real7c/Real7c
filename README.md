@@ -13,7 +13,7 @@ Building intelligent, secure, and scalable systems for over a decade.
 
 ## 🧬 Profile
 
-I’m a senior **AI & API engineer** with **12+ years of real-world development experience**, specializing in:
+I’m a senior **AI & API engineer** with **14+ years of real-world development experience**, specializing in:
 
 - 🤖 Applied AI & automation systems  
 - 🔌 High-performance, scalable API architectures  
